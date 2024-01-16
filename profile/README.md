@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<!-- PROJECT LOGO -->
+<p align="center">
+
+  <h3 align="center">Sahil App</h3>
+  <p align="center">
+    <a href="https://sahil.app">Website</a>
+    ·
+    <a href="[https://github.com/calcom/cal.com/issues](https://github.com/Sahil-Connect/sahil/issues)">Issues</a>
+  </p>
+</p>
